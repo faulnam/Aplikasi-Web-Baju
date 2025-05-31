@@ -5,6 +5,8 @@ Website Ini mampu melakukan CRUD data produk,kategori,dan transaksi
 Website ini memiliki 2 aktor/2 jenis user itu Admin,dan pelanggan
 
 Tugas Admin adalah:
+id : faul
+pw : 123
 -menambahkan produk
 -meng-edit produk
 -menghapus produk
@@ -17,6 +19,8 @@ Admin harus login terlebih dahulu untuk menjalankan tugasnya
 Admin juga dapat menagnti data diri dan password akun
 
 Pelanggan memiliki akses untuk :
+id : faul
+pw : 123
 -login
 -logout
 -edit profil
