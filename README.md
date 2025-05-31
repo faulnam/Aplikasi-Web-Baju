@@ -1,10 +1,15 @@
 <p align="center">
   <img src="assets/1.png" width="200" alt="My Profile Picture" />
+</p>
+<p align="center">
   <img src="assets/2.png" width="200" alt="My Profile Picture" />
+</p>
+<p align="center">
   <img src="assets/3.png" width="200" alt="My Profile Picture" />
+</p>
+<p align="center">
   <img src="assets/4.png" width="200" alt="My Profile Picture" />
 </p>
-
 # toko_baju
 repository ini berisi project membuat website toko online dengan PHP native
 
